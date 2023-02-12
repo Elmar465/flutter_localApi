@@ -1,0 +1,53 @@
+[
+    {
+        "car_name": "Audi",
+        "car_year": "2017",
+        "country": "Germany",
+        "car_model": [
+            {
+                "model_name" : "A6",
+                "price" : 40000,
+                "isNew": false
+            },
+            {
+                "model_name" : "A7",
+                "price": 45000,
+                "isNew":  true
+            }
+        ]
+    },
+    {
+        "car_name" : "Mercedes",
+        "car_year": "2022",
+        "country" : "Germany",
+        "car_model" : [
+            {
+                "model_name" : "Gl Brabus",
+                "price" : 200000,
+                "isNew": true
+            },
+            {
+                "model_name" : "E-Class",
+                "price" : 75000,
+                "isNew": false
+            }
+        ]
+    },
+    {
+        "car_name": "Bmw",
+        "car_year": "2020",
+        "country" : "Germany",
+        "car_model": [
+            {
+                "model_name" : "M5",
+                "price" : 45000,
+                "isNew" : false
+            }, 
+            {
+                "model_name" : "X7",
+                "price" : 200000,
+                "isNew" :true
+            }
+        ]
+    }
+]
